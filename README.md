@@ -10,7 +10,8 @@ This project uses machine learning classification algorithms to identify fraudul
 
 The dataset used for this project is available on Kaggle:
 
-**[Credit Card Fraud Detection Dataset - Kaggle]("/content/creditcard.csv.zip")**
+🔗 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 
 ### How to Use the Dataset:
 1. Visit the Kaggle link above
